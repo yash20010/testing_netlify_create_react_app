@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Testing continuous deployment on netlify</h1>
+        <span>😀😁😂</span>
       </header>
     </div>
   );
